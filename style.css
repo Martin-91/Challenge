@@ -1,0 +1,190 @@
+
+body{
+    background-image: url("imagenes/astronomy-galaxy-space-constellation.jpg");
+    margin: 5px;
+    padding: 0px;
+    background-color: #0e29d5;
+    opacity: 0.85;
+}
+
+.container{
+ margin: auto;
+ width: 960px;
+ height: 720px;
+ padding: 5px;
+ background-color: #E5E5E5;
+ 
+}
+
+.logo{
+    width: 100%;
+    float: left;
+    background-color: #E5E5E5;
+
+}
+
+.left{
+    float: left;
+    width: 70%;
+    height: 40%;
+    border-radius: 24px;
+    background-color: #E5E5E5;
+    
+}
+
+.right{
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 24px;
+    background: white;
+    
+    
+}
+
+.left-button{
+    float: left;
+    margin-top: -12%;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+   
+    
+}
+
+.logoimg {
+    margin-top: 1%;
+    margin-left: 5%;
+    float: inherit;
+    
+}
+
+.tittle{
+    float: inherit;
+    margin-left: 20%;
+    color: #0a3871;
+}
+
+.text-input {
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 20%;
+    color:  #0a3871;
+    background: #E5E5E5;
+    font-size: 150%;
+    border: none;
+    outline: none;
+   
+}
+
+#imgDer {
+    margin-left: 2%;
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+}
+#texto {
+    text-align: center;
+    margin-left: 7%;
+    margin-right: 5%;
+    
+}
+#texto2 {
+    text-align: center;
+    margin-left: 10%;
+    color: gray;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: auto;
+}
+
+.signo {
+    width: 100%;
+    float: left;
+}
+
+.signoimg {
+    margin-top: -15%;
+    margin-left: 5%;
+    float: inherit;
+ 
+}
+
+.requisito{
+    float: inherit;
+    margin-top: -15%;
+    margin-left: 7.5%;
+    color: rgba(73, 80, 87, 1);
+
+}
+
+
+#btn-encriptar {
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #0a3871;
+    opacity: 1;
+}
+
+#btn-desencriptar {
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #e8e1d8;
+}
+
+#copiar {
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #e8e1d8;
+    border-radius: 24px;
+    display: none;
+}
+
+
+ 
+.by {
+    width: 100%;
+    float: left;
+}
+
+.sigLink {
+    margin-top: 6%;
+    margin-left: 32%;
+    float: inherit;
+    max-width: 3%;
+} 
+
+.posicion {
+    float: inherit;
+    margin-top: 3%;
+    margin-left: -8%;
+    color:gray;
+}
+
+.git {
+    width: 100%;
+    float: left;
+}
+
+.sigGit {
+    margin-top: -3%;
+    margin-left: 36%;
+    float: inherit;
+    max-width: 3%;
+} 
+
+
+
