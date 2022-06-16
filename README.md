@@ -17,4 +17,4 @@ Requisitos:
 - No deben ser utilizados letras con acentos ni caracteres especiales
 - Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
 
-Mira como quedo :) : https://martin-91.github.io/Challenge-1/
+Mirá como quedo :) : https://martin-91.github.io/Challenge-1/
